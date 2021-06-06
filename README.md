@@ -1,1 +1,2 @@
 # Suv_Purchase-Analysis
+We started data exploration where we find out about our dataset contain any null values or not.Afterwards we split our dataset and applied our machine learning model i.e Logistic Regression.We fit our model and also predicted values and compared them with original values and we found that some of those values our classifier has predicted wrong.Then we take a look at the accuracy score of our model which is 89.0% and Lastly, we looked at it’s confusion matrix and plot it using seaborn library.
